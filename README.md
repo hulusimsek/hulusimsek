@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, Kotlin, JAVA**
 
-- 👨‍💻 All of my projects are available at [hulusimsek.com](hulusimsek.com)
+- 👨‍💻 All of my projects are available at [hulusimsek.com](www.hulusimsek.com)
 
 - 💬 Ask me about **Java, Kotlin**
 
